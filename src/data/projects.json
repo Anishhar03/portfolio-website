@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Body Keypoints Detection Project",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented PoseNet, a machine learning model for real-time human pose estimation.",
+    "skills": ["JS", "ML5", "P5"],
+    "source": "https://github.com/Anishhar03/posenet-demo.git"
+  },
+  {
+    "title": "Gym Posture Detection",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made to evaluate and correct gym postures, providing real-time feedback on posture accuracy.",
+    "skills": ["JS", "ML5", "P5"],
+    "source": "https://github.com/Anishhar03/gym_posture.git"
+  },
+  {
+    "title": "Spotify Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Created a Spotify Clone replicating the core interface and functionality of Spotify’s music player.",
+    "skills": ["js", "html", "css"],
+    "source": "https://github.com/Anishhar03/spotify-clone.git"
+  }
+]
